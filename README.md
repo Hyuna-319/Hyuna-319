@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 > I'm Hyuna Kim, interested in robot development.            
-I'm excited to grow alongside robots!           
+I'm excited to grow alongside robots!  🚀         
 
 <a href="mailto:sjajmh6612@naver.com">
   <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
