@@ -29,9 +29,16 @@ I'm excited to grow alongside robots!  🚀
 
 <br><br>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuna-319&layout=compact&bg_color=00000000&title_color=000000&text_color=000000" alt="Top Langs" />
+
+
+<div style="display: flex; background-color: #3F3F3F; padding: 10px;">
+  <!-- Top Langs 이미지 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuna-319&layout=compact&bg_color=3F3F3F&title_color=A5C9FF&text_color=A5C9FF" alt="Top Langs" />
   
-  <img src="http://mazandi.herokuapp.com/api?handle=rulu0415&theme=warm" alt="Mazandi Tier" style="background-color: transparent;"/>
+
+
+  
+
+  <img src="http://mazandi.herokuapp.com/api?handle=rulu0415&theme=dark"/>
 </div>
 
