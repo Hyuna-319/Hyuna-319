@@ -17,21 +17,21 @@ I'm excited to grow alongside robots!  🚀
 
 
 
-
 ### 🌱 I’m currently learning ...
 
 <div style="width: 100%; border: 2px solid #ccc; border-radius: 10px; padding: 10px; display: inline-block;">
   <img align="left" src="https://github.com/user-attachments/assets/20085567-3645-44ff-a9f3-5ec9518e67f4" alt="Linux" height="50px" style="margin-right: 10px;"/>
   <img align="left" src="https://github.com/user-attachments/assets/8ed8a139-81bc-4a09-97b5-89f2213920ab" alt="Python" height="50px" style="margin-right: 10px;"/>
   <img align="left" src="https://github.com/user-attachments/assets/4db4101d-5bed-437f-85ed-c9e2626a14db" alt="C++" height="50px" style="margin-right: 10px;"/>
-  <img align="left" src="https://github.com/user-attachments/assets/5e388cbb-3607-4a5a-9d75-b0690841de18" alt="ROS" height="50px" style="margin-right: 10px;"/>
+  <img align="left" src="https://github.com/user-attachments/assets/167eaee7-f1f3-42a9-bf2a-e5b3bf9d63a1" alt="ROS" height="50px" style="margin-right: 10px;"/>
 </div>
 
 
 <br><br>
-<div style="display: flex; text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuna-319&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" alt="Top Langs" />
-  <img src="http://mazandi.herokuapp.com/api?handle=rulu0415&theme=warm" alt="Mazandi Tier" />
 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuna-319&layout=compact&bg_color=00000000&title_color=000000&text_color=000000" alt="Top Langs" />
+  
+  <img src="http://mazandi.herokuapp.com/api?handle=rulu0415&theme=warm" alt="Mazandi Tier" style="background-color: transparent;"/>
 </div>
 
